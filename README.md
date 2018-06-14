@@ -16,11 +16,8 @@ Give examples
 ```
 
 ### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
+For basic arduino coding , you need Arduino IDE for push the code inside , but if you have an other IDE you can use it :) .
+* [Download Arduino IDE ](https://www.arduino.cc/en/main/software) 
 ```
 Give the example
 ```
