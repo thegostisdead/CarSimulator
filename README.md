@@ -20,20 +20,10 @@ Head (controlleur):
 - 1 gyroscope / accelerometer
 +  Arduino Uno
 
-
-```
-Give examples
-```
-
 ### Installing
 For basic arduino coding , you need Arduino IDE for push the code inside , but if you have an other IDE you can use it :) .
 * [Download Arduino IDE ](https://www.arduino.cc/en/main/software) 
-```
-Give the example
-```
+Download and install lib 
+* [Grove_LoRa_Radio ](http://wiki.seeedstudio.com/Grove_LoRa_Radio/#download-library) for Grove - LoRa Radio 433 MHz 
+* [RF24 ](https://www.arduinolibraries.info/libraries/rf24) wifi comunications
 
-And repeat
-
-```
-until finished
-```
