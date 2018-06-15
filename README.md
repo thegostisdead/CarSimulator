@@ -29,4 +29,6 @@ Download and install lib
 
 #### Authors
 
-* **Enzo Caceres** - *Programming work with arduino * - [PurpleBooth](https://github.com/PurpleBooth)
+* **Enzo Caceres** - *Programming work with arduino * - [Caceresenzo](https://github.com/Caceresenzo)
+* **Jason Trindade** - *Mecanicals , Technical parts, Electic parts* - []()
+* **Dorian Hardy** - *comment code and git edditor * - [thegostisdead](https://github.com/thegostisdead)
