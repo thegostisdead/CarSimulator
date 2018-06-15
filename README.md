@@ -27,3 +27,6 @@ Download and install lib
 * [Grove_LoRa_Radio ](http://wiki.seeedstudio.com/Grove_LoRa_Radio/#download-library) for Grove - LoRa Radio 433 MHz 
 * [RF24 ](https://www.arduinolibraries.info/libraries/rf24) wifi comunications
 
+#### Authors
+
+* **Enzo Caceres** - *Programming work with arduino * - [PurpleBooth](https://github.com/PurpleBooth)
