@@ -8,7 +8,17 @@ The goal was to take a classic radio controlled car, and control it with a steer
 
 ### Informations and details
 Materials used : 
-
+- 1 motor for direction controll
+- 2 motor for camera (axe X , Y )
+- 1 module High Frequency 433 MHz 
+- 1 gyroscope / acceleromerter 
+- 1 motor 1/5 e
+- 2 batteries 12 V 
+* Arduino Leonardo
+Head (controlleur):
+- 1 module High Frequency
+- 1 gyroscope / accelerometer
++  Arduino Uno
 
 
 ```
